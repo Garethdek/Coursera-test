@@ -1,0 +1,36 @@
+.row { margin-top: 5px ; margin-bottom: 5px }
+.row > div {border-style: solid; border-color: black; background-color: gray}
+
+  
+h1 {
+  color: black;
+  font-size: 24px;
+  text-align: center;
+  text-decoration: underline;
+  font-family: arial, helvetica, sans-serif;
+}
+h2 {
+  color: black;
+  background-color: pink;
+  border-style: solid;border-color: black;
+  font-size: 20px;
+  text-align: left;
+  font-family: arial, helvetica, sans-serif;
+}
+h3 {
+  color: white;
+  background-color: maroon;
+  border-style: solid;border-color: black;
+  font-size: 20px;
+  text-align: left;
+  font-family: arial, helvetica, sans-serif;
+}
+h4 {
+  color: black;
+  background-color: yellow;
+  border-style: solid;border-color: black;
+  font-size: 20px;
+  text-align: left;
+  font-family: arial, helvetica, sans-serif;
+}
+
